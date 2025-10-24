@@ -39,52 +39,51 @@
 
 <br>
 
-<!-- 3D Cube Gif -->
-<img align="right" alt="Blockchain 3D" width="420" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
-
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" /> About Me
 
-```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  
-  expertise: {
-    blockchain: string[];
-    web3: string[];
-    fullStack: string[];
-    cloud: string[];
-  };
-  
-  currentMission: string[];
-  philosophy: string;
-}
+<table>
+<tr>
+<td width="50%" valign="top">
 
-const vishalNandy: Developer = {
-  name: "Vishal Nandy",
-  role: "Blockchain Engineer & WEB3 Architect",
+```typescript
+const vishalNandy = {
+  role: "Blockchain Engineer",
   location: "India 🇮🇳",
+  focus: ["WEB3", "DeFi", "Smart Contracts"],
   
-  expertise: {
-    blockchain: ["Solidity", "Smart Contracts", "DeFi", "NFTs", "DAOs"],
-    web3: ["dApps", "Web3.js", "Ethers.js", "IPFS", "Chainlink"],
-    fullStack: ["React", "Next.js", "Node.js", "TypeScript"],
-    cloud: ["AWS", "GCP", "Azure", "Docker", "Kubernetes"]
+  stack: {
+    blockchain: ["Solidity", "Rust", "Go"],
+    frontend: ["React", "Next.js", "TypeScript"],
+    backend: ["Node.js", "GraphQL", "MongoDB"],
+    cloud: ["AWS", "Docker", "Kubernetes"]
   },
   
-  currentMission: [
-    "🔐 Mastering Advanced Smart Contract Security",
-    "⚡ Implementing Layer 2 Scaling Solutions", 
-    "🎨 Building Revolutionary NFT Ecosystems",
-    "🤖 Creating AI-Powered Blockchain Tools"
-  ],
-  
-  philosophy: "Building trust through code, one block at a time 🔗"
+  mission: "Building decentralized future 🚀"
 };
-
-console.log("🚀 Ready to innovate and disrupt!");
 ```
+
+**🎯 Currently Working On:**
+- 🔐 Advanced Smart Contract Security
+- ⚡ Layer 2 Scaling Solutions
+- 🎨 NFT Marketplace Platform
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<!-- 3D Models and Animations -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="350">
+
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="400">
+
+</div>
+
+</td>
+</tr>
+</table>
 
 <br clear="right"/>
 
