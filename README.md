@@ -1,5 +1,19 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:667EEA,100:764BA2&height=300&section=header&text=VISHAL%20NANDY&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20WEB3%20Developer%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:667EEA,100:764BA2&height=300&section=header&text=VISHAL%20NANDY&fontSize=90&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20WEB3%20Developer%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+  
+  <!-- Alternative Animated Headers - Choose Your Favorite! -->
+  <!-- 
+  
+  Option 1: Twinkling Animation
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:667EEA,100:764BA2&height=300&section=header&text=VISHAL%20NANDY&fontSize=90&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20WEB3%20Developer%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+  
+  Option 2: Blinking Animation
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:667EEA,100:764BA2&height=300&section=header&text=VISHAL%20NANDY&fontSize=90&fontColor=fff&animation=blink&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20WEB3%20Developer%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+  
+  Option 3: Scale In Animation
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:667EEA,100:764BA2&height=300&section=header&text=VISHAL%20NANDY&fontSize=90&fontColor=fff&animation=scaleIn&fontAlignY=38&desc=Blockchain%20Engineer%20%7C%20WEB3%20Developer%20%7C%20Cloud%20Architect&descAlignY=51&descAlign=50" />
+  
+  -->
 </div>
 
 <div align="center">
@@ -454,19 +468,35 @@ const collaborationInterests = {
 
 <div align="center">
 
-<a href="https://github.com/VishalNandy17/defi-protocol">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+<!-- GitHub Repo Cards - Automatically synced with your repositories -->
+<!-- Replace the repo names below with your actual repository names -->
+
+<a href="https://github.com/VishalNandy17">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
-<a href="https://github.com/VishalNandy17/nft-marketplace">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=nft-marketplace&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+<a href="https://github.com/VishalNandy17">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=nft-marketplace&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
 
-<a href="https://github.com/VishalNandy17/dao-governance">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=dao-governance&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+<a href="https://github.com/VishalNandy17">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=dao-governance&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
-<a href="https://github.com/VishalNandy17/smart-contract-auditor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=smart-contract-auditor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
+<a href="https://github.com/VishalNandy17">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=smart-contract-auditor&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" />
 </a>
+
+<!-- Alternative: Show all repositories as cards -->
+<!--
+<a href="https://github.com/VishalNandy17?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishalNandy17&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=10" width="49%" />
+</a>
+-->
+
+</div>
+
+<div align="center">
+  
+### 📂 [View All Projects →](https://github.com/VishalNandy17?tab=repositories)
 
 </div>
 
