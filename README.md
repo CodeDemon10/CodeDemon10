@@ -338,14 +338,11 @@ console.log("🚀 Ready to innovate and disrupt!");
 
 <!-- Auto-Generated Repository Cards -->
 <a href="https://github.com/VishalNandy17?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol7&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
 </a>
 <a href="https://github.com/VishalNandy17?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=harvest-link-chain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
 </a>
-
-**Note:**
-These cards pull data directly from your GitHub profile!
 
 </details>
 
