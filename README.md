@@ -703,8 +703,3 @@ mindmap
 </div>
 
 ---
-
-<!-- Skills Progress Bars -->
-<div align="center">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb
