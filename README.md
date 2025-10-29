@@ -333,158 +333,16 @@ console.log("🚀 Ready to innovate and disrupt!");
 <div align="center">
 
 <!-- Project 1 -->
-<table>
-<tr>
-<td width="100%">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║  ●  ●  ●                          PROJECT SHOWCASE                           ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  📦 Repository #1 - Latest Project                                          ║
-║  ═══════════════════════════════════════════════════════════════════        ║
-║                                                                              ║
-║  📊 Auto-fetched from: github.com/VishalNandy17                             ║
-║  🔗 This will display your 4 most recent repositories automatically         ║
-║  ⭐ With real-time stats, languages, and descriptions                        ║
-║                                                                              ║
-║  To enable: Use the repository cards below                                   ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-</td>
-</tr>
 </table>
 
 <!-- Auto-Generated Repository Cards -->
 <a href="https://github.com/VishalNandy17?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=VishalNandy17&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol7&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
 </a>
 <a href="https://github.com/VishalNandy17?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=VishalNandy17&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=harvest-link-chain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
 </a>
-
-<!-- MacBook-Style Repository Viewer -->
-<br><br>
-
-### 💻 Interactive Repository Explorer
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-<!-- MacBook Frame 1 -->
-<details>
-<summary><b>🖥️ Featured Repository #1</b></summary>
-<br>
-
-```ascii
-┌─────────────────────────────────────────┐
-│  ⚫ ⚫ ⚫         MacBook Pro             │
-├─────────────────────────────────────────┤
-│                                         │
-│  🚀 Project Name: Your Latest Repo     │
-│  📝 Description: Auto-synced           │
-│  ⭐ Stars: Real-time count             │
-│  🔧 Language: Auto-detected            │
-│  📅 Updated: Live status               │
-│                                         │
-│  [View on GitHub →]                    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-**Quick Setup:**
-1. Replace repo names in the pin cards with your actual repositories
-2. Cards auto-update with live stats from GitHub
-
-</details>
-
-</td>
-<td align="center" width="50%">
-
-<!-- MacBook Frame 2 -->
-<details>
-<summary><b>🖥️ Featured Repository #2</b></summary>
-<br>
-
-```ascii
-┌─────────────────────────────────────────┐
-│  ⚫ ⚫ ⚫         MacBook Pro             │
-├─────────────────────────────────────────┤
-│                                         │
-│  🔗 Project Name: Your Second Repo     │
-│  📝 Description: Live from GitHub      │
-│  ⭐ Stars: Dynamic counting            │
-│  🔧 Language: Auto-sync                │
-│  📅 Updated: Real-time                 │
-│                                         │
-│  [View on GitHub →]                    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-**Pro Tip:**
-The repository cards below automatically show your most popular repos!
-
-</details>
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-<!-- MacBook Frame 3 -->
-<details>
-<summary><b>🖥️ Featured Repository #3</b></summary>
-<br>
-
-```ascii
-┌─────────────────────────────────────────┐
-│  ⚫ ⚫ ⚫         MacBook Pro             │
-├─────────────────────────────────────────┤
-│                                         │
-│  ⚡ Project Name: Your Third Repo      │
-│  📝 Description: GitHub API powered    │
-│  ⭐ Stars: Live data                   │
-│  🔧 Language: Automatically shown      │
-│  📅 Updated: Current status            │
-│                                         │
-│  [View on GitHub →]                    │
-│                                         │
-└─────────────────────────────────────────┘
-```
-
-**Customization:**
-Edit the repo parameter in the URL to show different projects
-
-</details>
-
-</td>
-<td align="center" width="50%">
-
-<!-- MacBook Frame 4 -->
-<details>
-<summary><b>🖥️ Featured Repository #4</b></summary>
-<br>
-
-```ascii
-┌─────────────────────────────────────────┐
-│  ⚫ ⚫ ⚫         MacBook Pro             │
-├─────────────────────────────────────────┤
-│                                         │
-│  🎨 Project Name: Your Fourth Repo     │
-│  📝 Description: Real-time GitHub API  │
-│  ⭐ Stars: Auto-updated                │
-│  🔧 Language: Dynamic detection        │
-│  📅 Updated: Live timestamp            │
-│                                         │
-│  [View on GitHub →]                    │
-│                                         │
-└─────────────────────────────────────────┘
-```
 
 **Note:**
 These cards pull data directly from your GitHub profile!
