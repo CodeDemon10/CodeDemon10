@@ -500,10 +500,10 @@ These cards pull data directly from your GitHub profile!
 <!-- Real Repository Cards - Update with your actual repo names -->
 <p align="center">
   <a href="https://github.com/VishalNandy17">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=VishalNandy17&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=RetroC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
   </a>
   <a href="https://github.com/VishalNandy17">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=VishalNandy17&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=cloud-x&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
   </a>
 </p>
 
