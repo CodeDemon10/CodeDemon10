@@ -94,25 +94,25 @@ console.log("🚀 Ready to innovate and disrupt!");
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" /> Blockchain Engineering
-- ⛓️ Smart Contract Development (Solidity, Rust, Go)
-- 💰 DeFi Protocol Architecture & Design
-- 🎨 NFT Marketplaces & ERC Standards
-- 🌉 Cross-chain Bridge Development
-- 🛡️ Smart Contract Security Auditing
-- ⚡ Gas Optimization Techniques
-- 🏛️ DAO Governance Systems
+- ⛓️ **Smart Contract Development** (Solidity, Rust, Go)
+- 💰 **DeFi Protocol** Architecture & Design
+- 🎨 **NFT Marketplaces** & ERC Standards
+- 🌉 **Cross-chain Bridge** Development
+- 🛡️ **Smart Contract Security** Auditing
+- ⚡ **Gas Optimization** Techniques
+- 🏛️ **DAO Governance** Systems
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" /> WEB3 Development
-- 🌐 Decentralized Application Development
-- 🔌 Web3 Integration & Wallet Connect
-- 📦 IPFS & Decentralized Storage Solutions
-- 🤝 Multi-signature Wallet Implementation
-- 🔮 Oracle Integration (Chainlink)
-- 📊 Blockchain Analytics Dashboards
-- 🎯 Token Economics & Tokenomics
+- 🌐 **Decentralized Application** Development
+- 🔌 **Web3 Integration** & Wallet Connect
+- 📦 **IPFS** & Decentralized Storage
+- 🤝 **Multi-signature Wallet** Implementation
+- 🔮 **Oracle Integration** (Chainlink)
+- 📊 **Blockchain Analytics** Dashboards
+- 🎯 **Token Economics** & Tokenomics
 
 </td>
 </tr>
@@ -120,25 +120,25 @@ console.log("🚀 Ready to innovate and disrupt!");
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="30" /> Full Stack Mastery
-- ⚛️ Modern React & Next.js Applications
-- 🚀 RESTful & GraphQL API Development
-- 🔄 Real-time Apps with WebSockets
-- 🎨 Responsive UI/UX Design Systems
-- 📱 Progressive Web Applications (PWA)
-- 🔥 Server-Side Rendering & SSG
-- 🌊 State Management (Redux, Zustand)
+- ⚛️ **Modern React** & Next.js Applications
+- 🚀 **RESTful & GraphQL** API Development
+- 🔄 **Real-time Apps** with WebSockets
+- 🎨 **Responsive UI/UX** Design Systems
+- 📱 **Progressive Web Applications** (PWA)
+- 🔥 **Server-Side Rendering** & SSG
+- 🌊 **State Management** (Redux, Zustand)
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="30" /> Cloud Architecture
-- ☁️ Serverless Architecture Design
-- 🐳 Containerization & Orchestration
-- 🔄 CI/CD Pipeline Implementation
-- 🏗️ Microservices Development
-- 🔒 Cloud Security & Compliance
-- 📈 Auto-scaling & Load Balancing
-- 💾 Database Design & Optimization
+- ☁️ **Serverless Architecture** Design
+- 🐳 **Containerization** & Orchestration
+- 🔄 **CI/CD Pipeline** Implementation
+- 🏗️ **Microservices** Development
+- 🔒 **Cloud Security** & Compliance
+- 📈 **Auto-scaling** & Load Balancing
+- 💾 **Database Design** & Optimization
 
 </td>
 </tr>
@@ -155,6 +155,8 @@ console.log("🚀 Ready to innovate and disrupt!");
 <br>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum,rust,go" />
+  <br><br>
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=00F7FF" />
   <img src="https://img.shields.io/badge/Polygon-8247E5?style=for-the-badge&logo=polygon&logoColor=white" />
@@ -175,8 +177,6 @@ console.log("🚀 Ready to innovate and disrupt!");
   <br>
   <img src="https://img.shields.io/badge/MetaMask-F6851B?style=for-the-badge&logo=metamask&logoColor=white" />
   <img src="https://img.shields.io/badge/WalletConnect-3B99FC?style=for-the-badge&logo=walletconnect&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
 
 </details>
@@ -186,6 +186,8 @@ console.log("🚀 Ready to innovate and disrupt!");
 <br>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass" />
+  <br><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -197,14 +199,9 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" />
 </p>
 
 </details>
@@ -214,10 +211,11 @@ console.log("🚀 Ready to innovate and disrupt!");
 <br>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,graphql,redis" />
+  <br><br>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -225,13 +223,8 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <br>
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
 </p>
 
 </details>
@@ -241,10 +234,11 @@ console.log("🚀 Ready to innovate and disrupt!");
 <br>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux" />
+  <br><br>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
@@ -252,37 +246,11 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
   <br>
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 </details>
-
-<details>
-<summary><b><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="25" /> Tools & Utilities</b></summary>
-<br>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?style=for-the-badge&logo=insomnia&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" />
-</p>
-
-</details>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -310,8 +278,6 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://ghchart.rshah.org/00F7FF/VishalNandy17" alt="Contribution Chart" width="98%" />
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -322,60 +288,31 @@ console.log("🚀 Ready to innovate and disrupt!");
   <img src="https://github-profile-trophy.vercel.app/?username=VishalNandy17&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=MultiLanguage,Commits,Stars,Followers,PullRequest,Issues,Reviews,Repositories" alt="Trophies" />
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" /> Featured Projects - MacBook Style
+## <img src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" width="40" /> Featured Projects
 
 <div align="center">
 
-<!-- Project 1 -->
-
-</table>
-
-<!-- Auto-Generated Repository Cards -->
-<a href="https://github.com/VishalNandy17?tab=repositories&sort=stargazers">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=defi-protocol&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
-</a>
-<a href="https://github.com/VishalNandy17?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=harvest-link-chain&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF&description_lines_count=3" width="48%" />
-</a>
-
-</details>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!-- Real Repository Cards - Update with your actual repo names -->
+<!-- Real Repository Cards -->
 <p align="center">
-  <a href="https://github.com/VishalNandy17">
+  <a href="https://github.com/VishalNandy17/RetroC">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=RetroC&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
   </a>
-  <a href="https://github.com/VishalNandy17">
+  <a href="https://github.com/VishalNandy17/cloud-x">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishalNandy17&repo=cloud-x&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=667EEA&text_color=FFFFFF" width="48%" />
   </a>
 </p>
 
 <br>
 
-> 💡 **How to Customize:** Replace `&repo=VishalNandy17` with your actual repository names in the URLs above. The cards will automatically fetch live data including stars, forks, language, and description!
-
-<br>
-
-<!-- All Repositories Link -->
 <a href="https://github.com/VishalNandy17?tab=repositories">
   <img src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-00F7FF?style=for-the-badge&logo=repo&logoColor=black" height="40" />
 </a>
 
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -394,25 +331,21 @@ console.log("🚀 Ready to innovate and disrupt!");
   Status: In Development
   Stack: Solidity, React, The Graph
   Progress: ████████░░ 80%
-  Repo: github.com/VishalNandy17/defi-aggregator
 
 ⚡ Layer 2 Scaling Solution:
   Status: Research Phase
   Stack: Optimism, Arbitrum
   Progress: ███░░░░░░░ 30%
-  Repo: github.com/VishalNandy17/layer2-solution
 
 🎨 NFT Marketplace v2.0:
   Status: Testing
   Stack: Next.js, IPFS, Polygon
   Progress: ███████░░░ 70%
-  Repo: github.com/VishalNandy17/nft-marketplace
 
 🤖 Smart Contract Auditor AI:
   Status: Prototype
   Stack: Python, TensorFlow
   Progress: ████░░░░░░ 40%
-  Repo: github.com/VishalNandy17/contract-auditor
 ```
 
 </td>
@@ -490,22 +423,18 @@ const collaborationInterests = {
 </tr>
 </table>
 
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
 
 ## <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="40" /> Latest Articles & Insights
 
-<!-- BLOG-POST-LIST:START -->
 ```typescript
 interface Article {
   title: string;
   topic: string;
   readTime: string;
   status: string;
-  link: string;
 }
 
 const recentArticles: Article[] = [
@@ -513,41 +442,34 @@ const recentArticles: Article[] = [
     title: "🔐 Deep Dive: Reentrancy Attacks",
     topic: "Smart Contract Security",
     readTime: "12 min",
-    status: "Published ✅",
-    link: "medium.com/@vishalnandy"
+    status: "Published ✅"
   },
   {
     title: "⚡ Gas Optimization Techniques",
     topic: "Solidity Best Practices", 
     readTime: "8 min",
-    status: "Published ✅",
-    link: "medium.com/@vishalnandy"
+    status: "Published ✅"
   },
   {
     title: "🌉 Building Cross-Chain Bridges",
     topic: "Blockchain Architecture",
     readTime: "15 min",
-    status: "Draft 📝",
-    link: "medium.com/@vishalnandy"
+    status: "Draft 📝"
   },
   {
     title: "🎨 NFT Metadata Standards",
     topic: "Web3 Development",
     readTime: "10 min",
-    status: "Published ✅",
-    link: "medium.com/@vishalnandy"
+    status: "Published ✅"
   }
 ];
 ```
-<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
   <a href="https://medium.com/@vishalnandy">
     <img src="https://img.shields.io/badge/Read_More_on_Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="35" />
   </a>
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -569,17 +491,19 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+<br>
+
 ### 💭 Dev Quote of the Day
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border_color=00F7FF&quote_category=programming" alt="Dev Quote" />
+
+<br>
 
 ### 🎯 Fun Stats
 
 <img src="https://github-widgetbox.vercel.app/api/profile?username=VishalNandy17&data=followers,repositories,stars,commits&theme=nautilus" alt="GitHub Stats Widget" />
 
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -596,8 +520,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
   </picture>
 
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -655,7 +577,7 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 <br>
 
-<!-- Support Section with Glow -->
+<!-- Support Section -->
 ### 💖 Support My Work
 
 <p>If you find my projects helpful or enjoy my content, consider supporting me!</p>
@@ -687,8 +609,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 </details>
 
 </div>
-
-<br>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
@@ -737,8 +657,6 @@ Other          1 hr 15 mins    █░░░░░░░░░░░░░░░�
 
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -768,8 +686,6 @@ const myPhilosophy = {
 
 </div>
 
-<br>
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </p>
@@ -795,7 +711,7 @@ const myPhilosophy = {
 
 <br>
 
-<!-- Visitor Counter with Style -->
+<!-- Visitor Counter -->
 <img src="https://count.getloli.com/get/@vishalnandy17?theme=moebooru" alt="Visitor Count" />
 
 </div>
